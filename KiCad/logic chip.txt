@@ -1,0 +1,3 @@
+SN74LS04
+
+6 channel 2-input NAND gate
